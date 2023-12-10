@@ -1,4 +1,4 @@
-cybersecuarity in control
+
 <!DOCTYPE html>
 <html class="no-js" lang="pl">
 <head>
